@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Converted Raw Data to String Data And Request Body Attached For Add Place....]]>
+    </line>
+    <line>
+      <![CDATA[ Json Resource Attached For Add Book....]]>
+    </line>
+    <line>
+      <![CDATA[Request Body Attached For Delete Book....]]>
+    </line>
+    <line>
+      <![CDATA[ Json Resource Attached For Delete Book....]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4513" started-at="2020-02-20T13:48:10Z" finished-at="2020-02-20T13:48:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4513" started-at="2020-02-20T13:48:10Z" finished-at="2020-02-20T13:48:15Z">
+      <class name="com.google.restAPI.QA_AddBooks_POST_StaticJson">
+        <test-method status="PASS" signature="getData()[pri:0, instance:com.google.restAPI.QA_AddBooks_POST_StaticJson@42e26948]" name="getData" is-config="true" duration-ms="54" started-at="2020-02-20T19:18:10Z" finished-at="2020-02-20T19:18:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getData -->
+        <test-method status="PASS" signature="testAddBookPOSTDeleteBookAPI()[pri:0, instance:com.google.restAPI.QA_AddBooks_POST_StaticJson@42e26948]" name="testAddBookPOSTDeleteBookAPI" duration-ms="4416" started-at="2020-02-20T19:18:10Z" finished-at="2020-02-20T19:18:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Converted Raw Data to String Data And Request Body Attached For Add Place....]]>
+            </line>
+            <line>
+              <![CDATA[ Json Resource Attached For Add Book....]]>
+            </line>
+            <line>
+              <![CDATA[Request Body Attached For Delete Book....]]>
+            </line>
+            <line>
+              <![CDATA[ Json Resource Attached For Delete Book....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testAddBookPOSTDeleteBookAPI -->
+      </class> <!-- com.google.restAPI.QA_AddBooks_POST_StaticJson -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
